@@ -1,8 +1,0 @@
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicio_1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
-C:\Users\Eilyn Fortuna Perez\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
