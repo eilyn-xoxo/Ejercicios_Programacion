@@ -4,27 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8
+namespace _5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Numeros negativos");
             int[] numeros = new int[10] ;
-
-            int negativos = 0;
+            int sumaTotal = 0;
 
             for (int i = 0; i < 10; i++)
             {
-                if (numeros[i] < 0)
-                {
-
-                    negativos = negativos + 1;
-                }
+                sumaTotal = sumaTotal + numeros[i];
             }
-            Console.WriteLine($"En el arreglo {negativos} numeros negativos");
 
+            int promedio = sumaTotal / 10;
+
+            Console.WriteLine($"El promedio de los numeros es {promedio}");
         }
     }
 }
